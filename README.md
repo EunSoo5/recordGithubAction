@@ -1,2 +1,2 @@
 # recordGithubAction
-깃헙액션 녹화용 래패토리
+Github Action을 활용한 크롤러 웹 페이지 만들기
